@@ -10,5 +10,3 @@ else
 
     Console.WriteLine(num % 10);
 }
-
-
