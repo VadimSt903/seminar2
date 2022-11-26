@@ -1,0 +1,15 @@
+/Users/vadim/Desktop/WOrK/DZ03/obj/Debug/net6.0/DZ03.csproj.AssemblyReference.cache
+/Users/vadim/Desktop/WOrK/DZ03/obj/Debug/net6.0/DZ03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadim/Desktop/WOrK/DZ03/obj/Debug/net6.0/DZ03.AssemblyInfoInputs.cache
+/Users/vadim/Desktop/WOrK/DZ03/obj/Debug/net6.0/DZ03.AssemblyInfo.cs
+/Users/vadim/Desktop/WOrK/DZ03/obj/Debug/net6.0/DZ03.csproj.CoreCompileInputs.cache
+/Users/vadim/Desktop/WOrK/DZ03/bin/Debug/net6.0/DZ03
+/Users/vadim/Desktop/WOrK/DZ03/bin/Debug/net6.0/DZ03.deps.json
+/Users/vadim/Desktop/WOrK/DZ03/bin/Debug/net6.0/DZ03.runtimeconfig.json
+/Users/vadim/Desktop/WOrK/DZ03/bin/Debug/net6.0/DZ03.dll
+/Users/vadim/Desktop/WOrK/DZ03/bin/Debug/net6.0/DZ03.pdb
+/Users/vadim/Desktop/WOrK/DZ03/obj/Debug/net6.0/DZ03.dll
+/Users/vadim/Desktop/WOrK/DZ03/obj/Debug/net6.0/refint/DZ03.dll
+/Users/vadim/Desktop/WOrK/DZ03/obj/Debug/net6.0/DZ03.pdb
+/Users/vadim/Desktop/WOrK/DZ03/obj/Debug/net6.0/DZ03.genruntimeconfig.cache
+/Users/vadim/Desktop/WOrK/DZ03/obj/Debug/net6.0/ref/DZ03.dll
